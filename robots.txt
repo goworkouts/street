@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://goworkouts.github.io/sitemapx.xml
